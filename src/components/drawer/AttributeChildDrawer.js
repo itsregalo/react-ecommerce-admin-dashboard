@@ -1,10 +1,10 @@
-import DrawerButton from "components/form/DrawerButton";
-import Error from "components/form/Error";
-import InputArea from "components/form/InputArea";
-import LabelArea from "components/form/LabelArea";
-import SwitchToggle from "components/form/SwitchToggle";
-import Title from "components/form/Title";
-import useAttributeSubmit from "hooks/useAttributeSubmit";
+import DrawerButton from "/src/components/form/DrawerButton";
+import Error from "/src/components/form/Error";
+import InputArea from "/src/components/form/InputArea";
+import LabelArea from "/src/components/form/LabelArea";
+import SwitchToggle from "/src/components/form/SwitchToggle";
+import Title from "/src/components/form/Title";
+import useAttributeSubmit from "/src/hooks/useAttributeSubmit";
 import React from "react";
 import Scrollbars from "react-custom-scrollbars-2";
 
